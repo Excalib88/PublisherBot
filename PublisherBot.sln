@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublisherBot.Scheduler", "src\PublisherBot.Scheduler\PublisherBot.Scheduler.csproj", "{38DD19AF-AF34-4774-BBB1-DFD6DDC55D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublisherBot.Server", "src\PublisherBot.Server\PublisherBot.Server.csproj", "{2AF3CFEA-4759-4B7A-8956-B248852A1450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublisherBot.TelegramAPI", "src\PublisherBot.TelegramAPI\PublisherBot.TelegramAPI.csproj", "{2306A416-1B4E-4066-A2F6-29D82E2DDEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DD19AF-AF34-4774-BBB1-DFD6DDC55D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DD19AF-AF34-4774-BBB1-DFD6DDC55D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DD19AF-AF34-4774-BBB1-DFD6DDC55D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DD19AF-AF34-4774-BBB1-DFD6DDC55D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF3CFEA-4759-4B7A-8956-B248852A1450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF3CFEA-4759-4B7A-8956-B248852A1450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF3CFEA-4759-4B7A-8956-B248852A1450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF3CFEA-4759-4B7A-8956-B248852A1450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2306A416-1B4E-4066-A2F6-29D82E2DDEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2306A416-1B4E-4066-A2F6-29D82E2DDEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2306A416-1B4E-4066-A2F6-29D82E2DDEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2306A416-1B4E-4066-A2F6-29D82E2DDEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

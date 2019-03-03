@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dmansurov\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dmansurov\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_PublisherBot.1723640514.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dmansurov\PublisherBot" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PublisherBot.sln" t="IncludeFlat" />
+      <e p="src\PublisherBot.Scheduler" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="PublisherBot.Scheduler.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PublisherBot.Scheduler.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="src\PublisherBot.Server" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="PublisherBot.Server.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="PublisherBot.Server.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="src\PublisherBot.TelegramAPI" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="PublisherBot.TelegramAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PublisherBot.TelegramAPI.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
