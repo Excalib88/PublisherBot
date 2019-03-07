@@ -31,6 +31,10 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Telegram.Bot": {
+          "target": "Package",
+          "version": "[14.10.0, )"
         }
       },
       "imports": [

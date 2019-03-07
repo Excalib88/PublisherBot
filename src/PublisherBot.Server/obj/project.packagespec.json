@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\dmansurov\\PublisherBot\\src\\PublisherBot.TelegramAPI\\PublisherBot.TelegramAPI.csproj": {
+            "projectPath": "C:\\Users\\dmansurov\\PublisherBot\\src\\PublisherBot.TelegramAPI\\PublisherBot.TelegramAPI.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -26,11 +30,35 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.0.0-preview.19074.2, )"
+        },
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "[3.0.0-preview.19074.2, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.8.0, )"
+        },
+        "Serilog.Sinks.Console": {
+          "target": "Package",
+          "version": "[3.1.2-dev-00788, )"
+        },
+        "Serilog.Sinks.File": {
+          "target": "Package",
+          "version": "[4.1.0-dev-00806, )"
         }
       },
       "imports": [

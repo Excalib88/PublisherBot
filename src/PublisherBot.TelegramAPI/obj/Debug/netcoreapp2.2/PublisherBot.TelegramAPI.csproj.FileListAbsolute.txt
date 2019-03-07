@@ -1,0 +1,12 @@
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\bin\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.deps.json
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\bin\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\bin\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.csprojAssemblyReference.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.csproj.CoreCompileInputs.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.AssemblyInfoInputs.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.AssemblyInfo.cs
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.TelegramAPI\obj\Debug\netcoreapp2.2\PublisherBot.TelegramAPI.csproj.CopyComplete

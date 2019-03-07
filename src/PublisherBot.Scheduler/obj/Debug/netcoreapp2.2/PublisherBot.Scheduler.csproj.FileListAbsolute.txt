@@ -1,0 +1,12 @@
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\bin\Debug\netcoreapp2.2\PublisherBot.Scheduler.deps.json
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\bin\Debug\netcoreapp2.2\PublisherBot.Scheduler.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\bin\Debug\netcoreapp2.2\PublisherBot.Scheduler.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.csprojAssemblyReference.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.AssemblyInfoInputs.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.AssemblyInfo.cs
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Scheduler\obj\Debug\netcoreapp2.2\PublisherBot.Scheduler.csproj.CopyComplete
