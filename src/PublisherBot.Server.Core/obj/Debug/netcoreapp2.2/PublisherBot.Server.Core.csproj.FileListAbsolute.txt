@@ -1,0 +1,9 @@
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.deps.json
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\bin\Debug\netcoreapp2.2\PublisherBot.Server.Core.pdb
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\obj\Debug\netcoreapp2.2\PublisherBot.Server.Core.csprojAssemblyReference.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\obj\Debug\netcoreapp2.2\PublisherBot.Server.Core.csproj.CoreCompileInputs.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\obj\Debug\netcoreapp2.2\PublisherBot.Server.Core.AssemblyInfoInputs.cache
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\obj\Debug\netcoreapp2.2\PublisherBot.Server.Core.AssemblyInfo.cs
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\obj\Debug\netcoreapp2.2\PublisherBot.Server.Core.dll
+C:\Users\dmansurov\PublisherBot\src\PublisherBot.Server.Core\obj\Debug\netcoreapp2.2\PublisherBot.Server.Core.pdb
